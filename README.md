@@ -25,11 +25,11 @@ This GitHub repository contains a simple yet functional ToDo List application de
    ```
 
 2. **Install Dependencies:**
-   Ensure you have Python 3.x installed on your machine. This proje
+   Ensure you have Python 3.x installed on your machine. This project does not require any external libraries.
 
 3. **Run the Application:**
    ```bash
-   python todo_list.py
+   python to_do_list.py
    ```
 
 4. **Commands:**
@@ -45,21 +45,7 @@ This GitHub repository contains a simple yet functional ToDo List application de
 - `todo_list.py`: The main script that contains the application logic.
 - `tasks.txt`: The file where tasks are saved and loaded from.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For any questions or suggestions, please open an issue in the repository or contact me directly at your-email@example.com.
 
 ---
 
-This project was developed as part of an internship task to demonstrate proficiency in Python programming and basic software development practices.
-
-#CodSoft
-@CodSoft
+This project was developed as part of an internship task given by @CodSoft to demonstrate proficiency in Python programming and basic software development practices.
